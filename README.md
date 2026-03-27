@@ -24,4 +24,4 @@ cd password-generator-pro
 python3 gui_password_generator.py
 
 ## 📸 Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](images/screenshot.png)
