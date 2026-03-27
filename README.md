@@ -22,3 +22,7 @@ A simple GUI-based password generator with strength checker.
 ```bash
 git clone https://github.com/ansilcode-me/password-generator-pro.git
 cd password-generator-pro
+
+then,
+```bash
+python3 gui_password_generator.py
