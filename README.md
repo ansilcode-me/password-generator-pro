@@ -1,14 +1,24 @@
 # 🔐 Password Generator Pro
 
-A GUI-based password generator with strength checker.
+A simple GUI-based password generator with strength checker.
+
+---
 
 ## 🚀 Features
-- Generate strong passwords
-- Password strength indicator
-- Copy button
+- Generate strong passwords 🔑
+- Password strength indicator (Weak / Medium / Strong)
+- Copy password to clipboard 📋
 
-## ▶️ Run
-python3 gui_password_generator.py
+---
 
-## 📸 Screenshot
-![App](screenshot.png)
+## 🖥️ Requirements
+- Python 3
+
+---
+
+## ▶️ How to Run
+
+### Step 1: Clone the repository
+```bash
+git clone https://github.com/ansilcode-me/password-generator-pro.git
+cd password-generator-pro
