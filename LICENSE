@@ -1,49 +1,21 @@
-Save: `CTRL + O` → Enter → `CTRL + X`
+MIT License
 
----
+Copyright (c) 2026 ansilcode-me
 
-## 📜 3. Add License (Important)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-👉 Go to GitHub while creating repo:
-- Choose **MIT License**
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
----
-
-# 🌐 4. Create Repository on GitHub
-
-Go to: https://github.com
-
-Click:
-- ➕ → **New repository**
-
-Fill:
-- Name: `password-generator-pro`
-- Description: `GUI Password Generator with strength checker`
-- Public ✅
-- Add README ❌ (you already made it)
-
-Click **Create repository**
-
----
-
-# 🔗 5. Connect Your Project to GitHub
-
-Copy your repo URL, then in Terminal:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - Password Generator Pro"
-git branch -M main
-git remote add origin https://github.com/your-username/password-generator-pro.git
-git push -u origin main
-
----
-
-# 📦 2. Make it Easy to Install (Optional but PRO)
-
-Create file:
-
-```bash
-nano requirements.txt
-tk
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
